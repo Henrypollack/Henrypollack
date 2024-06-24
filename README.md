@@ -1,20 +1,31 @@
-## Ola eu sou o Henry de Oliveira! <img alling="bottom" src="https://i.imgur.com/qpcHkD3.png" width="40" height="40"/>
+# Ola eu sou o Henry de Oliveira! <img alling="bottom" src="https://i.imgur.com/qpcHkD3.png" width="30" height="30"/>
+Sou um desevolvedor e estudando de programacao.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](henrypollack1@gmail.com) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](henrypollack1@gmail.com)
+## 🔗 Pode me encontrar via...
 
-![Henrypollack GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrypollack&show_icons=true&theme=tokyonight)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrypollack1@gmail.com) 
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Henrypollack1/) 
+[![ZapZap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7OBZL7YIY6WFH1)
+[![Linkedisney](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-pollack/)
 
-### Tecnologias que eu uso no meu dia a dia
+<div>
+<a height=180em href="https://github.com/Henrypollack">
+<img src="https://github-readme-stats.vercel.app/api?username=Henrypollack&show_icons=true&theme=tokyonight">
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrypollack&hide_progress=False"> 
+</div>
+
+### 🛠 Habilidades
 
 <div style="display: inline_block"><br>
-<img alling="center" alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alling="center" alt="HTML5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alling="center" alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img alling="center" alt="CSS"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alling="center" alt="Python" height= 29em width= 29em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+<img alling="center" alt="HTML5" height= 29em width= 29em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img alling="center" alt="CSS" height= 29em width= 29em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alling="center" height= 29em width= 29em  alt="JavaScript"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div><br>
 
-Apaixonado por tecnologia, ajudando e ensinando a pessoas como lidar com ela da melhor maneira.
+##### Apaixonado por tecnologia, ajudando e ensinando a pessoas como lidar com ela da melhor maneira.
 
 ## Ultimo Projeto
+
 - [Projeto Gerador de TXT JR](https://github.com/Henrypollack/Naires)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrypollack&hide_progress=False)
