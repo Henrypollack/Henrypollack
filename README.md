@@ -1,5 +1,5 @@
 # Ola eu sou o Henry de Oliveira! <img alling="bottom" src="https://i.imgur.com/qpcHkD3.png" width="30" height="30"/>
-Sou um desevolvedor e estudando de programacao.
+Sou um desevolvedor e estudante de programacao.
 
 ## 🔗 Pode me encontrar via...
 
